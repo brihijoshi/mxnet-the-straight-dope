@@ -1,5 +1,7 @@
-# some data files
+#some data files
 data/
+.DS_Store
+mxnet/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
